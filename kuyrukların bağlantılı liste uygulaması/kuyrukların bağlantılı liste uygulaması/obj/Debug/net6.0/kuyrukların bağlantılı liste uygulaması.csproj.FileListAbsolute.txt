@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\bin\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.exe
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\bin\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.deps.json
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\bin\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.runtimeconfig.json
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\bin\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.dll
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\bin\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.pdb
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.AssemblyInfo.cs
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.dll
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\refint\kuyrukların bağlantılı liste uygulaması.dll
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.pdb
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\kuyrukların bağlantılı liste uygulaması.genruntimeconfig.cache
+C:\Users\Hp\source\repos\kuyrukların bağlantılı liste uygulaması\kuyrukların bağlantılı liste uygulaması\obj\Debug\net6.0\ref\kuyrukların bağlantılı liste uygulaması.dll

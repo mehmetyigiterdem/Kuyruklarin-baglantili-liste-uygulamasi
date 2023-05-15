@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kuyrukların bağlantılı liste uygulaması/1.0.0": {
+        "runtime": {
+          "kuyrukların bağlantılı liste uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kuyrukların bağlantılı liste uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
